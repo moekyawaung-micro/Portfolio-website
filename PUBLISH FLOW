@@ -1,0 +1,8 @@
+1. files အကုန် project ထဲထည့်
+2. placeholder တွေပြင်
+3. public files ထည့်
+4. npm install
+5. npm run dev
+6. npm run build
+7. GitHub push
+8. GitHub Actions deploy
